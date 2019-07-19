@@ -1,30 +1,30 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Ginecologia y Obstetricia - Dr. Francisco Rubio
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
-hero: 
-    hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+hero:
+    hero_img: francisco.jpg
+    hero_title: Citas&#58; +52 868 891 0000
+    hero_description: Edificio Corporativo CMI Priv. Sergio Martinez Calderoni No. 11 Fracc. Victoria Secc. Fiesta Heroica Matamoros
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: +52 868 891 0000
+    emergency: ''
+    email: paco-0059@hotmail.com
+    address: Edificio Corporativo CMI Priv. Sergio Martinez Calderoni No. 11 Fracc. Victoria Secc. Fiesta Heroica Matamoros
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 10:00 – 2:00 & 4:00 - 7:00
+saturday: 10:00 – 2:00
+sunday: Cerrado
 
 # Testimonials
 testimonials:
@@ -37,7 +37,7 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
+facebook: https://www.facebook.com/DrRubioDeAlba/
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
@@ -61,5 +61,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:
