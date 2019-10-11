@@ -1,23 +1,11 @@
 - icon: icon-user-md
-  title: Ultra Sonido
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: 1er Trimestre
+  description: Diagnóstico de embarazo intrauterino y extrauterino <br> Vitalidad fetal determinacíon de fecha probable de parto <br> Medición del pliegue nucal para el diagnóstico de Síndrome de Down
 
-- icon: icon-diamond
-  title: Medicamentos
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-user-md
+  title: 2do Trimestre
+  description: Ultrasonido anatómico a las 20 semanas.
 
-- icon: icon-flask
-  title: Consejos
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-- icon: icon-globe
-  title: Informacion
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-ambulance
-  title: Emergencias
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-bed
-  title: Otras cosas
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-user-md
+  title: 3ro Trimestre
+  description: Desarollo y crecimiento fetal <br> Perfil biofisico (bienestar fetal) <br> Diagnostico de anomalías placentarias <br> (Placento previa, desprendimiento de placenta)
